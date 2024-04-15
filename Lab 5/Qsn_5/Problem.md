@@ -1,0 +1,1 @@
+# A table contains ten 8-bit data starting at 9000H. Write an 8085 program to transfer the data from this table to next table starting at 9020H if the number is greater than 40H and less than C0H, else store 00H.

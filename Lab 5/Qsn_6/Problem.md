@@ -1,0 +1,1 @@
+# A table contains ten 8-bit data starting at 8050H. Write an 8085 program to store the sum of odd numbers at 8060H and store sum of even numbers at 8070H. Also display the sum of even numbers at output ports after 2-3 seconds of displaying the sum of odd numbers.

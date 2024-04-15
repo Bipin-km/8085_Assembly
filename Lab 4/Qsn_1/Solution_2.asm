@@ -1,0 +1,4 @@
+MVI A, 0B5H
+MVI B, 0B5H
+XRA B
+HLT

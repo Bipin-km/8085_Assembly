@@ -1,0 +1,4 @@
+MVI L, 44H
+PUSH H
+POP PSW
+HLT

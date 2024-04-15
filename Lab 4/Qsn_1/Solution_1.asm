@@ -1,0 +1,3 @@
+MVI A, 0FFH
+SUB A
+HLT

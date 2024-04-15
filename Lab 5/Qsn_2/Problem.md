@@ -1,0 +1,1 @@
+# Write a program that takes a number from memory address 9000H, and stores the multiplication table of the corresponding number in memory address from 9001H to 900AH. (The number at memory address 9000H will not exceed twenty-five.)
